@@ -62,6 +62,10 @@ Open **http://127.0.0.1:5000/** in your browser.
 ## 📝 License
 This project is licensed under the **MIT License**. Feel free to modify and distribute it as needed!
 
+
+## Screenshots
+![Screenshot 2025-04-02 221149](https://github.com/user-attachments/assets/008cb1c9-6151-495b-9c0d-699d60498715)
+
 ---
 💡 **Made with ❤️ by Yagyansh**
 
